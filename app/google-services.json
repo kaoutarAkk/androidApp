@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "101209987934",
+    "firebase_url": "https://recyclingideasandroid-master.firebaseio.com",
+    "project_id": "recyclingideasandroid-master",
+    "storage_bucket": "recyclingideasandroid-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101209987934:android:1f5bfbd7699adb54d3cdcf",
+        "android_client_info": {
+          "package_name": "com.recyclingideas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101209987934-s8cfajr09m36814v8hnstnao988h5o1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.recyclingideas",
+            "certificate_hash": "53cfc7348967f507527716bff7af56670f73d118"
+          }
+        },
+        {
+          "client_id": "101209987934-gs7qg1s8epuuvj5k8pl27tunkn79ajng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsq5P2ws_XXjssdg-dCQmSLdnDg5W3xSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101209987934-gs7qg1s8epuuvj5k8pl27tunkn79ajng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
